@@ -104,8 +104,8 @@ st.write("---")
 st.write(
     """
 -    👩‍💻  <font color='lightgreen'>Programming:</font> Python , NodeJS , Bash , PowerShell , MERN , SQL
--    📊  <font color='lightgreen'>Data Visualization:</font> Tableau , Matplotlib , Plotly
--    📚  <font color='lightgreen'>Modeling:</font> Python , TensorFlow , Pytorch
+-    📊  <font color='lightgreen'>RAG:</font> Vertex AI Search and Conversation
+-    📚  <font color='lightgreen'>Agentic AI Framework:</font> LangGraph , CrewAI , AutoGen
 -    🗄️  <font color='lightgreen'>Databases:</font> Postgres , MongoDB 
 """
 , unsafe_allow_html=True)
