@@ -77,7 +77,7 @@ st.subheader("⏩Experience & Qulifications⏪")
 st.write("---")
 st.write(
     """
--    ✔️ 8+ Years experience extracting Full-Stack Software Development.
+-    ✔️ 10+ Years experience extracting Full-Stack Software Development.
 -    ✔️ Proficient understanding of Artificial Intelligent and its diverse applications.
 -    ✔️ Good understanding of Machine Learning and their respective applications.
 -    ✔️ Excellent team-player and displaying strong sense of initiative on tasks.
