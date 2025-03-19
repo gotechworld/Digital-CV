@@ -78,11 +78,21 @@ st.write("---")
 st.write(
     """
 -    ✔️ 10+ Years experience extracting Full-Stack Software Development.
--    ✔️ Proficient understanding of Artificial Intelligent and its diverse applications.
--    ✔️ Good understanding of Machine Learning and their respective applications.
--    ✔️ Excellent team-player and displaying strong sense of initiative on tasks.
--    ✔️ Strong hands on experience and knowledge in Python , NodeJS , MARN.
--    ✔️ Strong hands on experience and knowledge in MongoDB , Postgres.
+-    ✔️ Experience with securing AI/ML models, including access control, model
+explainability, and auditing.
+-    ✔️ Experience securing AI and machine learning systems, particularly those
+involving large-scale LLMs or NLP models.
+-    ✔️ Knowledge of ethical AI practices, data privacy, and the potential risks of AI
+models.
+-    ✔️ Hands-on experience with cloud platforms (AWS, GCP, Azure) and cloud security best practices.
+-    ✔️ Strong scripting and automation skills (e.g., Python, Bash, or similar) for security operations tasks.
+-    ✔️ Certifications in Cybersecurity and Artificial Intelligence
+-    ✔️ Experience with DevSecOps practices and integrating security into the software
+development lifecycle (SDLC).
+-    ✔️ Experience with security tools and practices such as SIEM, IDS/IPS, firewalls, encryption, vulnerability management, and incident response.
+-    ✔️ Experience with containerization and orchestration tools (e.g., Docker, Kubernetes) and securing containerized applications.
+-    ✔️ Familiarity with compliance frameworks and standards (e.g., GDPR, SOC 2, ISO 27001).
+-    ✔️ Strong hands on experience and knowledge in Python, NodeJS, MongoDB , Postgres.
 """
 )
 
