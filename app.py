@@ -103,7 +103,7 @@ st.subheader("⏩Hard Skills⏪")
 st.write("---")
 st.write(
     """
--    👩‍💻  <font color='lightgreen'>Programming:</font> Python , NodeJS , Bash , PowerShell , MERN , SQL
+-    👩‍💻  <font color='lightgreen'>Programming:</font> Python , JavaScript , Bash , MERN , SQL
 -    📊  <font color='lightgreen'>RAG:</font> Vertex AI Search and Conversation
 -    📚  <font color='lightgreen'>Agentic AI Framework:</font> LangGraph , CrewAI , AutoGen
 -    🗄️  <font color='lightgreen'>Databases:</font> Postgres , MongoDB 
