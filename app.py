@@ -86,7 +86,7 @@ involving large-scale LLMs or NLP models.
 models.
 -    ✔️ Hands-on experience with cloud platforms (AWS, GCP, Azure) and cloud security best practices.
 -    ✔️ Strong scripting and automation skills (e.g., Python, Bash, or similar) for security operations tasks.
--    ✔️ Certifications in Cybersecurity and Artificial Intelligence
+-    ✔️ Certifications in Cybersecurity and Artificial Intelligence.
 -    ✔️ Experience with DevSecOps practices and integrating security into the software
 development lifecycle (SDLC).
 -    ✔️ Experience with security tools and practices such as SIEM, IDS/IPS, firewalls, encryption, vulnerability management, and incident response.
@@ -103,10 +103,10 @@ st.subheader("⏩Hard Skills⏪")
 st.write("---")
 st.write(
     """
--    👩‍💻  <font color='lightgreen'>Programming:</font> Python , NodeJS , Bash, PowerShell, MERN,  SQL,
+-    👩‍💻  <font color='lightgreen'>Programming:</font> Python , NodeJS , Bash , PowerShell , MERN , SQL
 -    📊  <font color='lightgreen'>Data Visualization:</font> Tableau , Matplotlib , Plotly
 -    📚  <font color='lightgreen'>Modeling:</font> Python , TensorFlow , Pytorch
--    🗄️  <font color='lightgreen'>Databases:</font> Postgres, MongoDB 
+-    🗄️  <font color='lightgreen'>Databases:</font> Postgres , MongoDB 
 """
 , unsafe_allow_html=True)
 
