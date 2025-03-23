@@ -328,15 +328,11 @@ with tabs[1]:
         st.markdown("### Linux System Administrator | StarTechTeam")
         st.markdown("#### April 2014 - March 2018")
         st.markdown("""
-        - Installation and configuration of equipment and systems of the partner
-companies, installation of hardware and software upgrades to ensure the
-complex is done in accordance with company policy
+        - Installation and configuration of equipment and systems of the partner companies, installation of hardware and software upgrades to ensure the complex is done in accordance with company policy
         - Maintain and improve the existing infrastructure and virtualization system
         - Install relational databases and associated software
-        - Evaluate, test, and integrate new operating system versions, drivers, and
-patches
-        - Monitor system events to ensure health, maximum system availability, and
-service quality
+        - Evaluate, test, and integrate new operating system versions, drivers, and patches
+        - Monitor system events to ensure health, maximum system availability, and service quality
         """)
         st.markdown('</div>', unsafe_allow_html=True)
 
