@@ -1,3 +1,4 @@
 Pillow
 streamlit
 ploty.express
+pandas
