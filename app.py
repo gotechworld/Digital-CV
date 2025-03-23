@@ -577,38 +577,6 @@ with tabs[4]:
         for course in courses:
             st.markdown(f"- **{course['name']}** ({course['platform']}, {course['year']})")
         
-        # Skills timeline
-        st.markdown("### Skills Timeline")
-        
-        # Create a dataframe for the timeline
-        skills_data = {
-            "Skill": ["Python", "DevOps", "Cloud", "AI/ML", "Security"],
-            "Start": [2015, 2017, 2018, 2020, 2019],
-            "End": [2025, 2025, 2025, 2025, 2025]
-        }
-        
-        df = pd.DataFrame(skills_data)
-        
-        fig = px.timeline(
-            df, 
-            x_start="Start", 
-            x_end="End", 
-            y="Skill",
-            color="Skill",
-            color_discrete_sequence=px.colors.qualitative.Set1
-        )
-        
-        fig.update_layout(
-            title="Skills Development Timeline",
-            xaxis_title="Year",
-            yaxis_title="Skill Area",
-            height=300,
-            paper_bgcolor="rgba(0,0,0,0)",
-            plot_bgcolor="rgba(0,0,0,0)",
-            font=dict(color="white")
-        )
-        
-        st.plotly_chart(fig, use_container_width=True)
 
 # --- CONTACT TAB ---
 with tabs[5]:
