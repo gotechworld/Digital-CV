@@ -19,7 +19,7 @@ DESCRIPTION = "Mobile App | Web App | Software Developer | YouTuber | Programmer
 ABOUT_ME = "I am a passionate Generative AI Software Engineer with over 10 years of experience in full-stack development. My expertise spans across AI/ML model security, cloud platforms, and DevSecOps practices. I thrive on solving complex problems and building innovative solutions that make a difference."
 
 EMAIL = "petru.giurca@pm.me"
-PHONE = "+XX XXX XXX XXX"  # Replace with actual phone if desired
+PHONE = "+40 754 21 56 12"  # Replace with actual phone if desired
 LOCATION = "Bucharest, Romania"
 
 SOCIAL_MEDIA = {
