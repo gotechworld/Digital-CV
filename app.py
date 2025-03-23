@@ -31,30 +31,45 @@ SOCIAL_MEDIA = {
 
 PROJECTS = [
     {
-        "title": "AI-Powered Document Analysis System",
-        "description": "Developed an intelligent system using LangChain and Google Vertex AI to extract, analyze, and categorize information from various document types.",
+        "title": "AI-powered Personalized Travel Recommendation",
+        "description": "Developed an intelligent system using LangChain, Streamlit, and Google Vertex AI to deliver a comprehensive travel planning experience.",
         "technologies": ["Python", "LangChain", "Google Vertex AI", "Streamlit"],
-        "year": 2023
+        "year": 2025
     },
     {
         "title": "Secure DevOps Pipeline Framework",
         "description": "Created a comprehensive framework for integrating security checks throughout the CI/CD pipeline, reducing vulnerability detection time by 60%.",
         "technologies": ["Jenkins", "Docker", "Kubernetes", "GitGuardian", "OWASP ZAP"],
-        "year": 2022
+        "year": 2024
     },
     {
         "title": "Microservices Architecture Migration",
         "description": "Led the migration of a monolithic application to a microservices architecture, improving scalability and reducing deployment time by 75%.",
         "technologies": ["Docker", "Kubernetes", "Azure DevOps", "Terraform"],
-        "year": 2021
+        "year": 2023
     },
 ]
 
 CERTIFICATIONS = [
-    {"name": "Google Cloud Professional Data Engineer", "issuer": "Google Cloud", "date": "2023"},
-    {"name": "AWS Certified Solutions Architect", "issuer": "Amazon Web Services", "date": "2022"},
-    {"name": "Certified Kubernetes Administrator (CKA)", "issuer": "Cloud Native Computing Foundation", "date": "2021"},
-    {"name": "Certified Ethical Hacker (CEH)", "issuer": "EC-Council", "date": "2020"},
+    {"name": "Deploying and Evaluating GenAI Apps with MongoDB", "issuer": "MongoDB", "date": "2025"},
+    {"name": "Certified Python Developer", "issuer": "Global Tech Council", "date": "2025"},
+    {"name": "Conda Fundamentals Certification", "issuer": "Anaconda", "date": "2025"},
+    {"name": "Certified LLM Developer", "issuer": "Blockchain Council", "date": "2024"},
+    {"name": "Certified CyberSecurity Expert", "issuer": "Blockchain Council", "date": "2024"},
+    {"name": "Certified Artificial Intelligence (AI) Developer", "issuer": "Blockchain Council", "date": "2024"},
+    {"name": "Certified Artificial Intelligence (AI) Expert", "issuer": "Blockchain Council", "date": "2024"},
+    {"name": "Certified Generative AI Expert", "issuer": "Blockchain Council", "date": "2024"},
+    {"name": "Certified Full Stack Developer", "issuer": "GSDC - Global Skill Development Council", "date": "2023"},
+    {"name": "Certified DevSecOps Engineer", "issuer": "GSDC - Global Skill Development Council", "date": "2023"},
+    {"name": "Certified Information Security Executive", "issuer": "GSDC - Global Skill Development Council", "date": "2023"},
+    {"name": "Certified DevOps Developer", "issuer": "International DevOps Certification Academy", "date": "2022"},
+    {"name": "Certified Pentesting Expert", "issuer": "Global Tech Council", "date": "2021"},
+    {"name": "Certified White Hat Hacker", "issuer": "Global Tech Council", "date": "2021"},
+    {"name": "ISO 9001 Quality Management Systems Quality Manager", "issuer": "SkillFront", "date": "2021"},
+    {"name": "ISO/IEC 27001 Information Security Manager", "issuer": "SkillFront", "date": "2021"},
+    {"name": "DevOps Information Security Engineer", "issuer": "International DevOps Certification Academy", "date": "2020"},
+    {"name": "Scrum Master", "issuer": "International DevOps Certification Academy", "date": "2020"},
+    {"name": "DevOps Operations Engineer", "issuer": "International DevOps Certification Academy", "date": "2020"},
 ]
 
 # --- PAGE CONFIGURATION ---
