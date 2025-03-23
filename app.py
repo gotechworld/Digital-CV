@@ -733,67 +733,6 @@ with tabs[4]:
         
         # Display the timeline
         st.plotly_chart(fig, use_container_width=True)
-        
-        # Add skill proficiency explanation
-        with st.expander("📊 Skill Proficiency Levels Explained"):
-            col1, col2, col3 = st.columns(3)
-            
-            with col1:
-                st.markdown(f"<div style='background-color: {color_map['Intermediate']}; padding: 10px; border-radius: 5px;'>", unsafe_allow_html=True)
-                st.markdown("#### Intermediate")
-                st.markdown("- Solid foundational knowledge")
-                st.markdown("- Independent problem-solving")
-                st.markdown("- Implementation of standard solutions")
-                st.markdown("</div>", unsafe_allow_html=True)
-                
-            with col2:
-                st.markdown(f"<div style='background-color: {color_map['Advanced']}; padding: 10px; border-radius: 5px;'>", unsafe_allow_html=True)
-                st.markdown("#### Advanced")
-                st.markdown("- Deep domain expertise")
-                st.markdown("- Complex problem-solving")
-                st.markdown("- Architecture and design skills")
-                st.markdown("- Mentoring capabilities")
-                st.markdown("</div>", unsafe_allow_html=True)
-                
-            with col3:
-                st.markdown(f"<div style='background-color: {color_map['Expert']}; padding: 10px; border-radius: 5px;'>", unsafe_allow_html=True)
-                st.markdown("#### Expert")
-                st.markdown("- Industry-level mastery")
-                st.markdown("- Innovation and optimization")
-                st.markdown("- Strategic implementation")
-                st.markdown("- Thought leadership")
-                st.markdown("</div>", unsafe_allow_html=True)
-        
-        # Add key achievements related to skills
-        st.markdown("### 🏆 Key Technical Achievements")
-        
-        achievements = [
-            {
-                "year": 2023,
-                "skill": "AI/ML",
-                "achievement": "Implemented a production-grade RAG system that reduced document processing time by 85%"
-            },
-            {
-                "year": 2022,
-                "skill": "Security",
-                "achievement": "Developed an AI-powered security scanning system that detected 40% more vulnerabilities than traditional tools"
-            },
-            {
-                "year": 2021,
-                "skill": "DevOps",
-                "achievement": "Reduced deployment time from 2 days to 30 minutes through CI/CD pipeline optimization"
-            },
-            {
-                "year": 2020,
-                "skill": "Cloud",
-                "achievement": "Architected a multi-cloud solution that improved system reliability to 99.99% uptime"
-            }
-        ]
-        
-        for achievement in achievements:
-            st.markdown(
-                f"**{achievement['year']} | {achievement['skill']}:** {achievement['achievement']}"
-            )
 
 # --- CONTACT TAB ---
 with tabs[5]:
