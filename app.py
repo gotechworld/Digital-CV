@@ -1,5 +1,3 @@
-# Create a refined version of the app.py file
-refined_app = '''
 import streamlit as st
 from pathlib import Path
 from PIL import Image
@@ -631,20 +629,4 @@ st.markdown(
     f"<div style='text-align: center; color: #4c8bf5;'>© {datetime.now().year} {NAME} | Last Updated: {datetime.now().strftime('%B %Y')}</div>",
     unsafe_allow_html=True
 )
-'''
 
-# Write the refined app to a file
-with open("refined_app.py", "w") as f:
-    f.write(refined_app)
-
-print("Created refined_app.py with the following enhancements:")
-print("1. Added tabbed navigation for better organization")
-print("2. Improved visual design with custom CSS")
-print("3. Added Projects section with interactive cards")
-print("4. Added Education and Certifications sections")
-print("5. Created Skills visualization with progress bars")
-print("6. Added interactive charts using Plotly")
-print("7. Implemented a timeline-style work history")
-print("8. Added a Contact form")
-print("9. Created a responsive layout")
-print("10. Added professional footer")
