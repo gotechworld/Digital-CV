@@ -568,10 +568,10 @@ with tabs[4]:
         # Recent courses
         st.markdown("### Recent Courses")
         courses = [
-            {"name": "Advanced LLM Engineering", "platform": "Coursera", "year": 2023},
-            {"name": "Kubernetes Security Specialist", "platform": "Linux Foundation", "year": 2023},
-            {"name": "Advanced RAG Techniques", "platform": "DeepLearning.AI", "year": 2022},
-            {"name": "Cloud Security Architecture", "platform": "Pluralsight", "year": 2022}
+            {"name": "AI Agents: Building Teams of LLM Agents that Work For You", "platform": "Udemy", "year": 2025},
+            {"name": "Multi Agent AI Systems with crewAI (Open Source)", "platform": "Udemy", "year": 2025},
+            {"name": "Generative AI: Practical LLM, LangChain, Hugging Face", "platform": "Udemy", "year": 2025},
+            {"name": "Mastering Ollama: Build Private Local LLM Apps with Python", "platform": "Udemy", "year": 2025},
         ]
         
         for course in courses:
