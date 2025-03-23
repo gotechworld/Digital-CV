@@ -256,11 +256,11 @@ with tabs[1]:
         st.markdown("### Generative AI Software Engineer | HCLTech")
         st.markdown("#### August 2023 - Present")
         st.markdown("""
-        - Developing and implementing LLMs using LangChain, Streamlit, Google Vertex AI, and Hugging Face Hub
-        - Writing clean, efficient, and well-documented code in Python and NodeJS
-        - Using LangChain within Vertex AI to interface with models hosted on Hugging Face Hub
-        - Collaborating with cross-functional teams to deliver high-quality AI solutions
-        - Staying updated with emerging AI technologies and best practices
+        - Developing and implementing LLMs using LangChain, Streamlit, Google Vertex AI, and Hugging Face Hub.
+        - Writing clean, efficient, and well-documented code in Python and NodeJS.
+        - Using LangChain within Vertex AI to interface with models hosted on Hugging Face Hub.
+        - Collaborating with cross-functional teams to deliver high-quality AI solutions.
+        - Staying updated with emerging AI technologies and best practices.
         """)
         st.markdown('</div>', unsafe_allow_html=True)
         
@@ -268,11 +268,11 @@ with tabs[1]:
         st.markdown("### DevSecOps Expert | HCLTech")
         st.markdown("#### October 2022 - July 2023")
         st.markdown("""
-        - Collected, preprocessed, and analyzed large datasets to extract valuable insights
-        - Identified, analyzed, and resolved infrastructure vulnerabilities and application deployment issues
-        - Created CA policies in Entra ID to manage network resource access
-        - Scanned for CVE vulnerabilities in component libraries using GitGuardian, OXSecurity, MegaLinter
-        - Performed Dynamic Analysis for web servers using OWASP ZAP
+        - Collected, preprocessed, and analyzed large datasets to extract valuable insights.
+        - Identified, analyzed, and resolved infrastructure vulnerabilities and application deployment issues.
+        - Created CA policies in Entra ID to manage network resource access.
+        - Scanned for CVE vulnerabilities in component libraries using GitGuardian, OXSecurity, MegaLinter.
+        - Performed Dynamic Analysis for web servers using OWASP ZAP.
         """)
         st.markdown('</div>', unsafe_allow_html=True)
         
@@ -280,11 +280,11 @@ with tabs[1]:
         st.markdown("### DevSecOps Engineer | Axsys Business Technology")
         st.markdown("#### March 2022 - September 2022")
         st.markdown("""
-        - Led DevSecOps initiatives in Vulnerability Scanning, Certificate Management, and Security Compliance
-        - Analyzed vulnerability data to identify security risks and determine false positives
-        - Created pods and clusters in Kubernetes and deployed using Red Hat OpenShift Platform
-        - Secured production container ecosystems in continuous delivery environments
-        - Stayed informed on the latest trends in security and mobile technology
+        - Led DevSecOps initiatives in Vulnerability Scanning, Certificate Management, and Security Compliance.
+        - Analyzed vulnerability data to identify security risks and determine false positives.
+        - Created pods and clusters in Kubernetes and deployed using Red Hat OpenShift Platform.
+        - Secured production container ecosystems in continuous delivery environments.
+        - Stayed informed on the latest trends in security and mobile technology.
         """)
         st.markdown('</div>', unsafe_allow_html=True)
         
@@ -292,11 +292,11 @@ with tabs[1]:
         st.markdown("### Sr DevOps Engineer | Arnia Software")
         st.markdown("#### September 2021 - February 2022")
         st.markdown("""
-        - Wrote clean, high-performance infrastructure code with a focus on reusability and automation
-        - Optimized code for performance and scalability to meet business requirements
-        - Collaborated with diverse teams to deliver high-quality software solutions
-        - Stayed abreast of emerging technologies and industry trends
-        - Actively sought feedback and refined processes to enhance productivity
+        - Wrote clean, high-performance infrastructure code with a focus on reusability and automation.
+        - Optimized code for performance and scalability to meet business requirements.
+        - Collaborated with diverse teams to deliver high-quality software solutions.
+        - Stayed abreast of emerging technologies and industry trends.
+        - Actively sought feedback and refined processes to enhance productivity.
         """)
         st.markdown('</div>', unsafe_allow_html=True)
         
@@ -304,11 +304,11 @@ with tabs[1]:
         st.markdown("### DevSecOps Specialist | General Electric")
         st.markdown("#### July 2019 - September 2021")
         st.markdown("""
-        - Developed and implemented build processes for maintaining build plans and version control
-        - Designed and implemented responsive user interfaces for seamless user experiences
-        - Architected scalable and maintainable software solutions
-        - Collaborated with designers and stakeholders to align design and development goals
-        - Explored new technologies and methodologies to optimize development processes
+        - Developed and implemented build processes for maintaining build plans and version control.
+        - Designed and implemented responsive user interfaces for seamless user experiences.
+        - Architected scalable and maintainable software solutions.
+        - Collaborated with designers and stakeholders to align design and development goals.
+        - Explored new technologies and methodologies to optimize development processes.
         """)
         st.markdown('</div>', unsafe_allow_html=True)
         
@@ -316,11 +316,11 @@ with tabs[1]:
         st.markdown("### IT System Engineer | BullGuard Software")
         st.markdown("#### April 2018 - June 2019")
         st.markdown("""
-        - Worked with solution architects and cloud engineers to align designs with business direction
-        - Gained experience in automation using Azure DevOps, Terraform, PowerShell, Python, Docker, and Kubernetes
-        - Contributed to Microservices architecture and CI/CD pipeline using Azure Pipelines
-        - Wrote infrastructure code with a focus on reusability and automation
-        - Worked with monitoring tools like Prometheus and Grafana
+        - Worked with solution architects and cloud engineers to align designs with business direction.
+        - Gained experience in automation using Azure DevOps, Terraform, PowerShell, Python, Docker, and Kubernetes.
+        - Contributed to Microservices architecture and CI/CD pipeline using Azure Pipelines.
+        - Wrote infrastructure code with a focus on reusability and automation.
+        - Worked with monitoring tools like Prometheus and Grafana.
         """)
         st.markdown('</div>', unsafe_allow_html=True)
 
@@ -328,11 +328,23 @@ with tabs[1]:
         st.markdown("### Linux System Administrator | StarTechTeam")
         st.markdown("#### April 2014 - March 2018")
         st.markdown("""
-        - Installation and configuration of equipment and systems of the partner companies, installation of hardware and software upgrades to ensure the complex is done in accordance with company policy
-        - Maintain and improve the existing infrastructure and virtualization system
-        - Install relational databases and associated software
-        - Evaluate, test, and integrate new operating system versions, drivers, and patches
-        - Monitor system events to ensure health, maximum system availability, and service quality
+        - Installation and configuration of equipment and systems of the partner companies, installation of hardware and software upgrades to ensure the complex is done in accordance with company policy.
+        - Maintain and improve the existing infrastructure and virtualization system.
+        - Install relational databases and associated software.
+        - Evaluate, test, and integrate new operating system versions, drivers, and patches.
+        - Monitor system events to ensure health, maximum system availability, and service quality.
+        """)
+        st.markdown('</div>', unsafe_allow_html=True)
+
+        st.markdown('<div class="timeline-item">', unsafe_allow_html=True)
+        st.markdown("### Helpdesk Support Specialist | GenPact Romania SRL")
+        st.markdown("#### January 2009 - March 2014")
+        st.markdown("""
+        - Receive customer's fault requests by email/ web/phone on different telecom equipment, create a trouble ticket using a ticketing interface and dispatch it according to internal procedures to the appropriate engineers.
+        - Responsible to interface with customers via Live Chat and Helpdesk tickets to address and resolve T1 and T2 technical and product support inquiries.
+        - Maintain and develop a broad technical knowledge of the Company`s products and services.
+        - Offer solutions to issues that are often non-standard/nonroutine.
+        - Report and track faults throughout the support process.
         """)
         st.markdown('</div>', unsafe_allow_html=True)
 
