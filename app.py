@@ -55,6 +55,8 @@ CERTIFICATIONS = [
     {"name": "Certified Python Developer", "issuer": "Global Tech Council", "date": "2025"},
     {"name": "Conda Fundamentals Certification", "issuer": "Anaconda", "date": "2025"},
     {"name": "Certified LLM Developer", "issuer": "Blockchain Council", "date": "2024"},
+    {"name": "Using MongoDB with Python", "issuer": "MongoDB", "date": "2024"},
+    {"name": "MongoDB for SQL Experts", "issuer": "MongoDB", "date": "2024"},
     {"name": "Certified CyberSecurity Expert", "issuer": "Blockchain Council", "date": "2024"},
     {"name": "Certified Artificial Intelligence (AI) Developer", "issuer": "Blockchain Council", "date": "2024"},
     {"name": "Certified Artificial Intelligence (AI) Expert", "issuer": "Blockchain Council", "date": "2024"},
